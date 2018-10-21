@@ -24,7 +24,7 @@ for name , num in count.items():
 
 
 
-print(actor_name + " takes oscar " +   str(counter) +" times \n\n") 
+print(actor_name + " takes oscardddd " +   str(counter) +" times \n\n") 
     
 #for oldest  artest 
 
